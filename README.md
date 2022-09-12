@@ -22,7 +22,9 @@
 
 
 ### Prerequisites
-- 
+- Proficiency in the use of CSS(Flexbox)
+- Advance HTML
+- DOM proficiency with Javascript
 
 ### Setup
 
@@ -38,8 +40,8 @@
 👤 **Author**
 
 - GitHub: [@ShedrackSunday](https://github.com/githubhandle)
-- Twitter: [@DeleSunday_S](https://twitter.com/ShedrackSunday)
-- LinkedIn: [Link](https://linkedin.com/in/Shedrack-Sunday)
+- Twitter: [@DeleSundayS](https://twitter.com/ShedrackSunday)
+- LinkedIn: [Shedrack Sunday](https://linkedin.com/in/Shedrack-Sunday)
 
 
 ## 🤝 Contributing
