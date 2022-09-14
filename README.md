@@ -16,7 +16,7 @@
 
 ## Live Link:
 
-[LiveLink](https://livedemo.com)
+[Path](https://livedemo.com)
 
 
 
@@ -25,15 +25,6 @@
 - Proficiency in the use of CSS(Flexbox)
 - Advance HTML
 - DOM proficiency with Javascript
-
-### Setup
-
-
-
-
-### Deployment
-
-
 
 ## Authors
 
@@ -56,9 +47,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- The original design of this work is credited to `Chindy Shin`
+>The Creative coon license is also credited to the designer and Behance.
 
 ## 📝 License
 
