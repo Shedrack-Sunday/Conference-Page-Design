@@ -74,7 +74,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - The original design of this work is credited to `Chindy Shin`
->The Creative coon license is also credited to [Chindy Shindy](https://www.behance.net/adagio07)
+>The Creative license is also credited to [Chindy Shindy](https://www.behance.net/adagio07)
 
 ## 📝 License
 
