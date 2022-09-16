@@ -144,7 +144,7 @@ const twoSpeakers = () => {
   }
 };
 
-// This function dynamically deploy the speaker cards created from the 
+// This function dynamically deploy the speaker cards created from the
 // card_for_speaker function above.
 
 const allSpeakers = () => {
@@ -165,29 +165,28 @@ featureSpeakerButton.addEventListener('click', () => {
   if (flag) {
     featureSpeakerButton.innerHTML = 'LESS <i class="fas fa-chevron-up"></i>';
     allSpeakers();
-  }
-  else {
+  }else {
     featureSpeakerButton.innerHTML = 'MORE <i class="fas fa-chevron-down"></i>';
     twoSpeakers();
   }
 });
 
 /* function decalraton to test the size of the screen.
-it displays two speakers from the InvitedSpeakers 
-array,if the mobile screen is shown with the 'MORE' 
+it displays two speakers from the InvitedSpeakers
+array,if the mobile screen is shown with the 'MORE'
 button, and shows all speakers if the 'LESS' is dispalyed.
 */
 
 const testForScreenSize = (event) => {
   if (event.matches) {
     twoSpeakers();
-  }
-  else {
+  }else {
     allSpeakers();
   }
 };
 
-/* The Test_for _Screen_Size function is passed with the mediaquery selector function, which 
+/* The Test_for _Screen_Size function is passed with the
+mediaquery selector function, which
 Actives only on mobile screens with max-width of 768px */
 
 testForScreenSize(mediaQueryList);
