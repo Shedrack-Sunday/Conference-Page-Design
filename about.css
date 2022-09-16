@@ -346,12 +346,13 @@ main {
 
 .main-logo {
   border: 2px  #d3d3d3 solid;
-  margin-top: 2em;
-  margin-bottom: 2em;
   display: flex;
   padding: 1em;
   justify-content: center;
   align-content: center;
+  margin: 2em auto;
+  height: 50px;
+  width: 200px;
 }
 
 @media (min-width: 768px) {
@@ -367,15 +368,9 @@ main {
     max-width: 700px;
   }
 
-  .main-logo {
-    margin: 2em auto;
-    height: 50px;
-    width: 200px;
-  }
-
   .main-logo img {
     max-width: 100%;
-    max-height: fit-content;
+    max-height: 100%;
   }
 }
 
@@ -402,7 +397,7 @@ main {
 
 .main-logo img {
   max-width: 100%;
-  max-height: fit-content;
+  max-height: 100%;
 }
 
 .past-events-title::after {
