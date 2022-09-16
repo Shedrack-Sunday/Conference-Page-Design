@@ -56,7 +56,7 @@ linkSponsor.addEventListener('click', () => {
 const invitedSpeakers = [
   {
     id: 0,
-    url: './images/Elon-Musk-2010.jpeg',
+    url: './Images/Elon-Musk-2010.jpeg',
     name: 'Elon Musk',
     role: 'CEO  of  SpaceX and Tesla.',
     description:
@@ -64,7 +64,7 @@ const invitedSpeakers = [
   },
   {
     id: 1,
-    url: './images/jeff-Bezos-2017.jpeg',
+    url: './Images/jeff-Bezos-2017.jpeg',
     name: 'Jeff Bezoz',
     role: 'Founder of Amazon',
     description:
@@ -72,7 +72,7 @@ const invitedSpeakers = [
   },
   {
     id: 2,
-    url: './images/Microsoft-CEO.jpeg',
+    url: './Images/Microsoft-CEO.jpeg',
     name: 'Satya Nadella',
     role: 'CEO at MicroSoft inc',
     description:
