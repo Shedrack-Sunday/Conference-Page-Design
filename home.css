@@ -333,7 +333,7 @@ main {
   width: 30%;
   font-size: 1.35em;
   font-weight: 900;
-  color: #d44949;
+  color: #ec4542;
 }
 
 .main-card-description {
@@ -365,6 +365,13 @@ main {
     margin: 0.1em;
     padding-left: 0.6em;
     padding-right: 0.6em;
+  }
+
+  .main-card:hover {
+    color: #f8f9f9;
+    visibility: visible;
+    border-color: aliceblue;
+    border:3px solid azure;
   }
 
   .main-card-img {
