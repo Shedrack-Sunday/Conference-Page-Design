@@ -16,14 +16,38 @@
 
 ## Live Link:
 
-[Path](https://livedemo.com)
+[Path](https://shedrack-sunday.github.io/Conference-Page-Design)
 
 [loom link](https://www.loom.com/share/b759169b4d8d441aaa56a8f00923b122)
 
 
+## Getting Started
 
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+
+> You need the following tools to be installed on your computer:
+
+> - Git
+> - IDE(e.g.: VsCode, Sublime,...)
+
+### Setup
+
+1. Download the `Zip` file or **Clone the repo with**:
+
+`git clone https://github.com/Shedrack-Sunday/Conference-Page-Design.git`
+
+2. To access the project directory
+
+`cd Conference-Page-Design`
+
+3. Open the live server to watch it in your browser 
+
+### Install the app dependencies
+`npm install`
+
+### Prerequisites  For Project Utilization
 - Proficiency in the use of CSS(Flexbox)
 - Advance HTML
 - DOM proficiency with Javascript
@@ -50,7 +74,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - The original design of this work is credited to `Chindy Shin`
->The Creative coon license is also credited to the designer and Behance.
+>The Creative coon license is also credited to [Chindy Shindy](https://www.behance.net/adagio07)
 
 ## 📝 License
 
