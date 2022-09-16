@@ -309,8 +309,6 @@ ul {
   }
 }
 
-/* main */
-
 main {
   display: flex;
   background: white;
@@ -370,12 +368,16 @@ main {
   }
 
   .main-logo {
-    width: 500px;
     margin: 2em auto;
+    height: 50px;
+    width: 200px;
+  }
+
+  .main-logo img {
+    max-width: 100%;
+    max-height: fit-content;
   }
 }
-
-/* Past Event */
 
 .past-events {
   display: flex;
@@ -390,6 +392,17 @@ main {
   align-self: center;
   text-align: center;
   margin-bottom: 0;
+}
+
+.main-logo {
+  margin: 2em auto;
+  height: 50px;
+  width: 200px;
+}
+
+.main-logo img {
+  max-width: 100%;
+  max-height: fit-content;
 }
 
 .past-events-title::after {
