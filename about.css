@@ -456,12 +456,13 @@ main {
   padding: 1em;
 }
 
-.partner-title p {
+.partner-title h2 {
   font-weight: 600;
   font-size: 1.5em;
   align-self: center;
   text-align: center;
   margin-top: 1em;
+  color: white;
 }
 
 .partner-group {
@@ -483,9 +484,10 @@ main {
   bottom: 0;
 }
 
-.partner-group > p {
+.partner-group > li {
   font-size: 2em;
   margin: 1em 0.3em;
+  color: #3a4a42;
 }
 
 .container-footer-reserved {
