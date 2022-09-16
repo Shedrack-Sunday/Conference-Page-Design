@@ -15,8 +15,15 @@ header {
 
 body {
   font-family: 'Lato', sans-serif;
-  color:S #272a31;
+  color: #272a31;
   background: #f8f9f9;
+}
+
+a {
+  text-decoration: none;
+  color: #272a31;
+  font-weight: bold;
+  letter-spacing: 1px;
 }
 
 .header-nav-phone {
@@ -112,13 +119,6 @@ li {
   cursor: pointer;
 }
 
-a {
-  text-decoration: none;
-  color: #272a31;
-  font-weight: bold;
-  letter-spacing: 1px;
-}
-
 .header-nav-mobile > ul > li > a {
   font-size: 1em;
   font-weight: 600;
@@ -156,10 +156,9 @@ h2 {
 h3 {
   padding: 0;
   font-weight: 300;
-  color:   #ec4542;
+  color: #ec4542;
   font-family: 'Lato', sans-serif;
   font-size: 30px;
-  
   margin-bottom: 0;
   margin-top: 2em;
   line-height: 0;
@@ -347,7 +346,6 @@ main {
   margin-bottom: 2em;
   display: flex;
   padding: 1em;
-  margin-top: 2em;
   justify-content: center;
   align-content: center;
 }
