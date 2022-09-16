@@ -165,7 +165,7 @@ featureSpeakerButton.addEventListener('click', () => {
   if (flag) {
     featureSpeakerButton.innerHTML = 'LESS <i class="fas fa-chevron-up"></i>';
     allSpeakers();
-  }else {
+  } else {
     featureSpeakerButton.innerHTML = 'MORE <i class="fas fa-chevron-down"></i>';
     twoSpeakers();
   }
@@ -180,7 +180,7 @@ button, and shows all speakers if the 'LESS' is dispalyed.
 const testForScreenSize = (event) => {
   if (event.matches) {
     twoSpeakers();
-  }else {
+  } else {
     allSpeakers();
   }
 };
