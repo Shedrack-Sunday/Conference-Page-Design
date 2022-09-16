@@ -134,17 +134,18 @@ depending on which element is on the screen at max width of 769px.
 
 const twoSpeakers = () => {
   speakerContainerCard.innerHTML = ' ';
-  //enlist just two speakers when the 'MORE' Button is on screen
+  // enlist just two speakers when the 'MORE' Button is on screen
+
   for (let i = 0; i < 2; i += 1) {
-    const speaker_Tag = document.createElement('div');
+    const speakerTag = document.createElement('div');
     speakerTag.classList.add('speaker-card');
     speakerTag.innerHTML = cardForSpeakers(i);
     speakerContainerCard.appendChild(speakerTag);
   }
 };
 
-//This function dynamically deploy the speaker cards created from the 
-//card_for_speaker function above.
+// This function dynamically deploy the speaker cards created from the 
+// card_for_speaker function above.
 
 const allSpeakers = () => {
   speakerContainerCard.innerHTML = ' ';
@@ -164,20 +165,24 @@ featureSpeakerButton.addEventListener('click', () => {
   if (flag) {
     featureSpeakerButton.innerHTML = 'LESS <i class="fas fa-chevron-up"></i>';
     allSpeakers();
-  }else {
+  }
+  else {
     featureSpeakerButton.innerHTML = 'MORE <i class="fas fa-chevron-down"></i>';
     twoSpeakers();
   }
 });
 
 /* function decalraton to test the size of the screen.
-it displays two speakers from the InvitedSpeakers array,if the mobile screen is shown with the 'MORE' button, and shows all speakers if the 'LESS' is dispalyed.
+it displays two speakers from the InvitedSpeakers 
+array,if the mobile screen is shown with the 'MORE' 
+button, and shows all speakers if the 'LESS' is dispalyed.
 */
 
 const testForScreenSize = (event) => {
   if (event.matches) {
     twoSpeakers();
-  }else {
+  }
+  else {
     allSpeakers();
   }
 };
