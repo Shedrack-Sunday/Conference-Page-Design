@@ -20,6 +20,10 @@
 
 [loom link](https://www.loom.com/share/b759169b4d8d441aaa56a8f00923b122)
 
+## Image view:
+![Screenshot 2022-11-01 205823](https://user-images.githubusercontent.com/50990925/199327022-4abcdd2b-0488-4b2a-8417-65c8b47775d3.png)
+
+
 
 ## Getting Started
 
