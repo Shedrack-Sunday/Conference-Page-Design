@@ -82,6 +82,10 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Image view:
+![Screenshot 2022-11-01 205823](https://user-images.githubusercontent.com/50990925/199327022-4abcdd2b-0488-4b2a-8417-65c8b47775d3.png)
+
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -178,6 +182,8 @@ to make it better. We'll be more than happy to help
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+- The original design of this work is credited to `Chindy Shin`
+>The Creative license is also credited to [Chindy Shindy](https://www.behance.net/adagio07)
 
 ## 📝 License <a name="license"></a>
 
