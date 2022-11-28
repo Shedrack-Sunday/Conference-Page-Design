@@ -25,8 +25,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -40,7 +38,7 @@
 
 > This project is the landing page for the registrations and details for 
 >the 2022 PAN African Cloud computing Summit.
-> details on visiting speakers, and key functions were designed 
+> details on visiting speakers and key functions were designed 
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -49,7 +47,7 @@
 
 > Javacript  
 > CSS for styling
-> VSCode
+> Html
 
 <details>
   <summary>Client</summary>
@@ -61,8 +59,6 @@
 
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **The Home page consist Program information and speakers**
 - **The About page details the program aim and past events**
@@ -92,14 +88,10 @@
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-
 In order to run this project you need:
 
 > - Git
 > - IDE(e.g.: VsCode, Sublime,...)
-> Proficiency in the use of CSS(Flexbox)
-> Advance HTML
-> DOM proficiency with Javascript
 
 
 ### Setup
@@ -174,11 +166,11 @@ to make it better. We'll be more than happy to help
 
 - **Do i need the current NPM version?**
 
-  - Yes you do
+  - Yes you do. But the project project set up is not packaged based 
 
 - **Do i need to be connected to the internet?**
 
-  - Yes!  
+  - Yes!  In other to view the deployed version.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
