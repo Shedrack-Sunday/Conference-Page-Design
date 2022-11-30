@@ -36,10 +36,12 @@
 
 # 📖 PAN African Cloud Computing Summit 2022 <a name="about-project"></a>
 
-> This project is the landing page for the registrations and details for 
->the 2022 PAN African Cloud computing Summit.
-> details on visiting speakers and key functions were designed 
 
+>The goal of this project is to build a simple multipage responsive conference website. The website will show all the necessary information concerning the conference including: the speakers, program of event, sponsors and other relevant informations.
+
+>In this project, the expectation is to setup Html-CSS-Javascript linter following the guildlines stated in the Html-CSS-Javascript linter config documentation, follow mobile first approach while building the website, make the website responsive on mobile and desktop, make website interactive, run tests and finally deploy.
+
+>The project will contain the homepage and about page.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -174,8 +176,12 @@ to make it better. We'll be more than happy to help
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse for providing the guide to build this projecr
 - The original design of this work is credited to `Chindy Shin`
->The Creative license is also credited to [Chindy Shindy](https://www.behance.net/adagio07)
+- The Creative license is also credited to [Chindy Shindy](https://www.behance.net/adagio07)
 
 ## 📝 License <a name="license"></a>
 
